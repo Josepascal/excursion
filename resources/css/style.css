@@ -3,6 +3,7 @@ body {
   text-align: center;
 }
 
+/* header */
 h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: normal;
@@ -11,6 +12,7 @@ h1 {
   text-align: center;
 }
 
+/* sections */
 h2 {
   color: white;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -29,10 +31,7 @@ p {
   font-size: 21px;
 }
 
-.phone {
-  margin-top: 20px;
-}
-
+/* classes */
 .copy {
   text-align: right;
 }
